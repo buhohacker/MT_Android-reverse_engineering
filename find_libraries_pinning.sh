@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# -- @Autora: Andrea del Nido García
-
 ### Script that obtains apk code with apktool, then find common certificate  
 ### pinning libraries 
 ### Output --> json files with occurences 
