@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# -- @Autora: Andrea del Nido García
-
 ### Runs the files find _libraries_pinning.sh and check_pinning_library.py
 
 
