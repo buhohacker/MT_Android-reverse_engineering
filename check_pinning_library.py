@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-# -- @Autora: Andrea del Nido García
-
 ### Script checks if the output files from find_libraries_pinning.sh are empty or not
 ### If not then exists certificate pinning package/library
 
