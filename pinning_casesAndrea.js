@@ -1,4 +1,3 @@
-// --- @Autora: Andrea del Nido García
 
 setTimeout(function() {
     Java.perform(function () {
