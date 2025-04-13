@@ -1,4 +1,3 @@
-@Autora: Andrea del Nido García ---> TFM MUCS ---> "Desarrollo de mecanismos para auditoría de tráfico de aplicaciones Android"
 
 ###
 El script pinning_libraries.sh ejecuta los dos scripts llamados check_pinning_library.py
