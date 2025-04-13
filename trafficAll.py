@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 
-# -- @Autora: Andrea del Nido García
-
 import os
 from traffic import Traffic
 
